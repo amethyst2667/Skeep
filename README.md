@@ -23,3 +23,9 @@ Currently Compilable. Not much else.
 
 Skype Protocol ~0%:
 Nothing reverse engineered quite yet.
+
+# Project Goals
+
+- Full Understanding of the Skype Client
+- A complete open-source re-implementation of the server side.
+- Cross platform skype client for Windows, Mac, Linux, etc.
