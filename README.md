@@ -1,10 +1,5 @@
 # Skeep
 A work in progress skype revival project.
-
-The current progress is 
-~0% - Only have just started.
-I will update this counter manually as the project goes on.
-
 The specific skype version that will be used for the project is 3.1.0.1005 (version number pulled from WindowsApp Skype_App folder.)
 
 
@@ -19,3 +14,12 @@ The app is clearly based on HTML + CSS + JS.
 
 To Join in on the project. DM "amethyst2667" on discord or join the discord server below and dm me there to get project developer permissions.
 https://discord.gg/ZB4CgJgAkt
+
+# Progress
+The Progress counters below account for milestones in the project. Not functionality.
+
+Skype Client ~3%:
+Currently Compilable. Not much else.
+
+Skype Protocol ~0%:
+Nothing reverse engineered quite yet.
