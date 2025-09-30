@@ -1,6 +1,6 @@
 # Skeep
 A work in progress skype revival project.
-The specific skype version that will be used for the project is 3.1.0.1005 (version number pulled from WindowsApp Skype_App folder.)
+The specific skype version that will be used for the project is 7.1 (version number pulled from WindowsApp Skype_App folder.)
 
 
 ## What do we have currently:
