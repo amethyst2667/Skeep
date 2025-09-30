@@ -13,7 +13,7 @@ The app is clearly based on HTML + CSS + JS.
 ### I want to help with the project, Where do I go?
 
 To Join in on the project. DM "amethyst2667" on discord or join the discord server below and dm me there to get project developer permissions.
-https://discord.gg/ZB4CgJgAkt
+[Discord Server](https://discord.gg/MY68A9HgT3)
 
 # Progress
 The Progress counters below account for milestones in the project. Not functionality.
