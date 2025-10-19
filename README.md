@@ -1,4 +1,6 @@
 # Skeep
+
+![image](https://github.com/amethyst2667/Skeep/blob/main/Skeep_Logo_Regular_Transparent.png)
 A work in progress skype revival project.
 This project aims to cover skype versions 5-7
 
