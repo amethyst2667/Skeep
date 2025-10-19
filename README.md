@@ -1,14 +1,11 @@
 # Skeep
 A work in progress skype revival project.
-The specific skype version that will be used for the project is 7.1 (version number pulled from WindowsApp Skype_App folder.)
-
+This project aims to cover skype versions 5-7
 
 ## What do we have currently:
 
 Well. Nothing really.
-The application is still currently unsolved. And we are no closer to figuring out the connection protocols.
-We are aware that the app is UWP based meaning no porting of the app at this time.
-The app is clearly based on HTML + CSS + JS.
+Lots of the communication between client and server has been unsolved and we are working to figure it out.
 
 ### I want to help with the project, Where do I go?
 
